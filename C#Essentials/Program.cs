@@ -6,7 +6,7 @@ using System.Net.NetworkInformation;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HelloWorld
+namespace CSharpEssentials
 {
     internal class Program
     {
